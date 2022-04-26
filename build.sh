@@ -24,3 +24,8 @@
 
 /usr/bin/echo "------MOUNT FILE SYSTEM-------" >> /tmp/buildlog
 /usr/bin/df -h >> /tmp/buildlog
+/usr/bin/echo "#####################extra content#################" > /tmp/buildlog
+this is satish
+i am in hyd
+living in chandanagar
+learning linux
